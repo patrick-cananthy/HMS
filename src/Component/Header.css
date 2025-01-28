@@ -1,0 +1,43 @@
+.header {
+    display: flex;
+    align-items: center;
+    background-color: blue;
+    justify-content: space-around;
+    color: #fff;
+    height: 50px;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header .logo {
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    margin-right: 70%;
+}
+
+.header .logo h2 {
+    padding: 0 10px 0 0;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.header .logo p {
+    font-size: 14px;
+    padding: 0 8px;
+    cursor: pointer;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: blue;
+    background-color: aliceblue;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.navbar a:hover {
+    color: skyblue;
+}
