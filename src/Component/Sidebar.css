@@ -1,0 +1,53 @@
+.sidePanel {
+    width: 270px;
+    background-color: #f0f0f0;
+    overflow-y: hidden;
+    margin-left: -2%;
+    padding-bottom: 6%;
+}
+
+.sidePanel h5 {
+    text-align: center;
+    font-size: 16px;
+    background-color: #09327F;
+    color: #fff;
+    padding: 5px;
+    margin-top: 0.5%;
+    margin-bottom: -5%;
+}
+
+.sidePanel ul li {
+    list-style: none;
+    padding: 5px 5px;
+}
+
+.sidePanel ul li a:hover {
+    color: red;
+}
+
+.sidePanel ul li a {
+    text-decoration: none;
+    color: #09327F;
+}
+
+.loginStatus p {
+    display: block;
+    padding-top: 5px;
+    padding-bottom: -5px;
+    color: #4773c5;
+}
+
+.loginStatus a {
+    text-decoration: none;
+    align-items: center;
+    background-color: #09327F;
+    border-radius: 5px;
+    color: #f0f0f0;
+    padding: 5px 15px;
+    margin-left: 25%;
+}
+
+.loginStatus a:hover {
+    color: red;
+    background-color: #4773c5;
+}
