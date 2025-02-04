@@ -1,0 +1,52 @@
+    .Dashboard {
+        background-color: #b4a7a7;
+        margin-left: 16%;
+        height: 650px;
+        padding-top: 5%;
+        padding-left: 5%;
+    }
+    
+    table {
+        color: #fff;
+        width: 500px;
+    }
+    
+    button {
+        width: 300px;
+        padding: 5px;
+        border-radius: 5px;
+        text-transform: uppercase;
+        border: none;
+        display: flex;
+        align-items: center;
+    }
+    
+    img {
+        width: 60px;
+    }
+    
+    form {
+        background-color: #fff;
+        padding: 20px;
+        width: 200px;
+        margin-top: -36.5%;
+        margin-left: 51%;
+    }
+    
+    form h4 {
+        text-align: center;
+        margin-top: -5%;
+        color: blue;
+    }
+    
+    input {
+        width: 150px;
+        padding: 5px;
+        border-radius: 1px;
+        margin-bottom: 5px;
+    }
+    
+    label {
+        padding: 5px;
+        display: flex;
+    }

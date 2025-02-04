@@ -4,6 +4,8 @@
     overflow-y: hidden;
     margin-left: -2%;
     padding-bottom: 6%;
+    position: fixed;
+    margin-top: 3.5%;
 }
 
 .sidePanel h5 {
